@@ -32,3 +32,7 @@ AlterID 为 64。
 V2Ray 将在部署时自动安装最新版本。
 
 **出于安全考量，除非使用 CDN，否则请不要使用自定义域名，而使用 Heroku 分配的二级域名，以实现 V2Ray Websocket + TLS。**
+陈东本人创建V2ray节点的经验：
+每一步：先登陆heroku帐号，网址是：https://id.heroku.com/login
+第二步：登陆github.com的帐号，然后点击左上角的“18523320285/v2ray-heroku”
+然后点击“Deploy to heroku”,后面根据说明创建即可。
